@@ -1,0 +1,11 @@
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp2.0\WeatherApp.deps.json
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp2.0\WeatherApp.runtimeconfig.json
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp2.0\WeatherApp.runtimeconfig.dev.json
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp2.0\WeatherApp.dll
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp2.0\WeatherApp.csprojAssemblyReference.cache
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp2.0\WeatherApp.csproj.CoreCompileInputs.cache
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp2.0\WeatherApp.AssemblyInfoInputs.cache
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp2.0\WeatherApp.AssemblyInfo.cs
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp2.0\WeatherApp.pdb
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp2.0\WeatherApp.dll
+c:\users\srihari.haridasan\source\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp2.0\WeatherApp.pdb

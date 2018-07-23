@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "EnterCityName";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Enter City Name</h2>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<button id="button">Submit</button>
+<input id="cityInput" />
+
+<script>
+    $("#button").click(function () {
+        var cityname = $('#cityInput').val(); 
+        location.href = "@Url.Action("WeatherDisplay", "Weather")" + "?city=" + cityname; 
+    });
+</script>
